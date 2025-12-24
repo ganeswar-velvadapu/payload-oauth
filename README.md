@@ -19,6 +19,6 @@ If you want to use this directly without going through the details, follow these
 
 - Copy the **`.env`** file and fill in all required OAuth and Payload credentials
 
+[Explanation](https://ganeswarv.me/blogs/payload-oauth)
 
-Explantion coming soon
 
